@@ -179,4 +179,3 @@ This project is fully ready for deployment on Vercel:
 
 ---
 
-*Crafted with 💙 by Antigravity AI coding assistant for the KoinX Frontend Intern Assessment submission.*
