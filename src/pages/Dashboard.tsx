@@ -9,7 +9,6 @@ import {
   Sparkles, 
   RotateCcw, 
   ShieldAlert, 
-  BookOpen, 
   Plus,
   Info,
   ChevronDown
