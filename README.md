@@ -5,10 +5,12 @@ A production-quality, responsive, and highly optimized Tax-Loss Harvesting dashb
 ---
 
 ## 🚀 Live Demo & Repository
+- 🌐 **Live App**: [https://koinx-tax-loss-harvesting.vercel.app](https://koinx-tax-loss-harvesting.vercel.app)
+- 📦 **GitHub Repo**: [https://github.com/richa-singh-8118/koinx-tax-loss-harvesting](https://github.com/richa-singh-8118/koinx-tax-loss-harvesting)
 - **Production Build Status**: Passing ✅
 - **Framework**: React 19 + TypeScript 6 + Vite 8
 - **Styling**: Tailwind CSS v3 (Custom Dark/Neon Theme)
-- **Deployment Ready**: Vercel-optimized (`dist` static output)
+- **Deployment**: Vercel (auto-deployed from `main` branch)
 
 ---
 
