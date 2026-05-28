@@ -1,0 +1,130 @@
+[
+  {
+    "coin": "BTC",
+    "coinName": "Bitcoin",
+    "logo": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+    "currentPrice": 5645000,
+    "totalHolding": 0.085,
+    "averageBuyPrice": 4820000,
+    "stcg": {
+      "balance": 240000,
+      "gain": 35000
+    },
+    "ltcg": {
+      "balance": 239825,
+      "gain": 35125
+    }
+  },
+  {
+    "coin": "ETH",
+    "coinName": "Ethereum",
+    "logo": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+    "currentPrice": 298000,
+    "totalHolding": 1.25,
+    "averageBuyPrice": 315000,
+    "stcg": {
+      "balance": 186250,
+      "gain": -10625
+    },
+    "ltcg": {
+      "balance": 186250,
+      "gain": -10625
+    }
+  },
+  {
+    "coin": "SOL",
+    "coinName": "Solana",
+    "logo": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
+    "currentPrice": 14200,
+    "totalHolding": 25,
+    "averageBuyPrice": 11500,
+    "stcg": {
+      "balance": 155000,
+      "gain": 27500
+    },
+    "ltcg": {
+      "balance": 200000,
+      "gain": 40000
+    }
+  },
+  {
+    "coin": "MATIC",
+    "coinName": "Polygon",
+    "logo": "https://assets.coingecko.com/coins/images/4713/large/polygon.png",
+    "currentPrice": 58.5,
+    "totalHolding": 1800,
+    "averageBuyPrice": 75.2,
+    "stcg": {
+      "balance": 45300,
+      "gain": -12060
+    },
+    "ltcg": {
+      "balance": 60000,
+      "gain": -18000
+    }
+  },
+  {
+    "coin": "ADA",
+    "coinName": "Cardano",
+    "logo": "https://assets.coingecko.com/coins/images/975/large/cardano.png",
+    "currentPrice": 38.2,
+    "totalHolding": 2200,
+    "averageBuyPrice": 48.5,
+    "stcg": {
+      "balance": 34040,
+      "gain": -9160
+    },
+    "ltcg": {
+      "balance": 50000,
+      "gain": -13500
+    }
+  },
+  {
+    "coin": "DOT",
+    "coinName": "Polkadot",
+    "logo": "https://assets.coingecko.com/coins/images/12171/large/polkadot.png",
+    "currentPrice": 540,
+    "totalHolding": 120,
+    "averageBuyPrice": 480,
+    "stcg": {
+      "balance": 24800,
+      "gain": 2760
+    },
+    "ltcg": {
+      "balance": 40000,
+      "gain": 4440
+    }
+  },
+  {
+    "coin": "LINK",
+    "coinName": "Chainlink",
+    "logo": "https://assets.coingecko.com/coins/images/877/large/chainlink.png",
+    "currentPrice": 1280,
+    "totalHolding": 85,
+    "averageBuyPrice": 1550,
+    "stcg": {
+      "balance": 48800,
+      "gain": -10250
+    },
+    "ltcg": {
+      "balance": 60000,
+      "gain": -12650
+    }
+  },
+  {
+    "coin": "AVAX",
+    "coinName": "Avalanche",
+    "logo": "https://assets.coingecko.com/coins/images/12559/large/Avalanche_Circle_Red.png",
+    "currentPrice": 2850,
+    "totalHolding": 30,
+    "averageBuyPrice": 2400,
+    "stcg": {
+      "balance": 35500,
+      "gain": 5600
+    },
+    "ltcg": {
+      "balance": 50000,
+      "gain": 7900
+    }
+  }
+]

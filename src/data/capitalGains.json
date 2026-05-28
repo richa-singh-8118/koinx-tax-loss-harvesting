@@ -1,0 +1,10 @@
+{
+  "stcg": {
+    "profits": 125000,
+    "losses": 45000
+  },
+  "ltcg": {
+    "profits": 250000,
+    "losses": 80000
+  }
+}
